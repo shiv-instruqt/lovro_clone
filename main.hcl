@@ -1,5 +1,5 @@
 resource "lab" "skip_test" {
-  title       = "Skip Test (Labs 2.0)"
+  title       = "Skip Test (Labs 2)"
   description = "Internal test lab to verify skipping at task, quiz, page and chapter level, and that solve scripts run on skip. Ref: ticket 4281."
 
   settings {
